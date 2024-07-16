@@ -13,10 +13,6 @@ This repository contains my solutions to the exercises from "Introduction to Sta
 
 Chapter 2 covers the fundamentals of statistical learning, including the concepts of supervised and unsupervised learning, the bias-variance tradeoff, and various statistical models.
 
-## Conceptual Exercises
-
 - [Conceptual Exercises](./Conceptual.ipynb)
-
-## Applied Exercises
 
 - [Applied Exercises](./Applied.ipynb)

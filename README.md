@@ -4,7 +4,7 @@ This repository contains my solutions to the exercises from "Introduction to Sta
 
 ## Chapters
 
-- [Chapter 2: Statistical Learning]
+- [Chapter 2: Statistical Learning](./Chapter_02/README.md)
 - More chapters to be added as I progress...
 
 ## Chapter 2: Statistical Learning
